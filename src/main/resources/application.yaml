@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.springframework.statemachine.support.AbstractStateMachine: WARN
+    org.springframework.statemachine.support.LifecycleObjectSupport: WARN
